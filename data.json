@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "name": "Системные утилиты",
+      "programs": [
+        {
+          "name": "CPU-Z",
+          "description": "Базовая информация о системе и бенчмарк процессора",
+          "downloads": [
+            { "name": "Оф.Сайт", "url": "https://www.cpuid.com/softwares/cpu-z.html", "class": "yellow" }
+          ],
+          "photos": []
+        },
+        {
+          "name": "AIDA64",
+          "description": "Подробная информация о системе и бенчмарки",
+          "downloads": [
+            { "name": "Rutracker", "url": "https://rutracker.org/forum/viewtopic.php?t=6611624", "class": "" }
+          ],
+          "photos": []
+        }
+      ]
+    }
+  ]
+}
