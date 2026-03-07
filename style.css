@@ -99,6 +99,7 @@ body {
     width: 90%;
     display: flex;
     flex-wrap: wrap;
+    gap: 5px;
     background-color: #707080;
     border-radius: 25px;
     align-self: center;
