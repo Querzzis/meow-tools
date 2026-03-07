@@ -25,7 +25,7 @@ fetch("data.json")
 
             program.downloads.forEach(d => {
 
-                downloads += `<a href="${d.url}" class="pdb ${d.class}">${d.name}`;
+                downloads += `<a href="${d.url}" class="pdb ${d.class}">${d.name}</a>`;
 
             });
 
@@ -38,7 +38,7 @@ fetch("data.json")
                 </div>
             `
 
-            body.appendChild(card)
+            body.appendChild(card);
         });
 
         category.appendChild(header);
