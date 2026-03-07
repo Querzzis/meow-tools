@@ -69,6 +69,7 @@ body {
 
 .program-card {
     padding: 5px;
+    height: fit-content;
     display: flex;
     flex-direction: column;
     background-color: #404050;
@@ -114,7 +115,7 @@ body {
 }
 
 .pdb {
-    padding: 5px;
+    padding-inline: 5px;
     background-color: white;
     color: black;
     border-radius: 25px;
