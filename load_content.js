@@ -1,5 +1,5 @@
 fetch("data.json")
-.then(r = r.json())
+.then(r => r.json())
 .then(data => {
 
     const content = document.getElementById("content");
