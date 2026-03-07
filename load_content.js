@@ -4,7 +4,7 @@ fetch("data.json")
 
     const content = document.getElementById("content");
 
-    data.categories.array.forEach(cat => {
+    data.categories.forEach(cat => {
         
         const category = document.createElement("div");
         category.className = "category";
