@@ -43,6 +43,6 @@ fetch("data.json")
 
         category.appendChild(header);
         category.appendChild(body);
-        category.appendChild(category);
+        content.appendChild(category);
     });
 })
