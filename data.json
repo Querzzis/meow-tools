@@ -15,7 +15,7 @@
           "name": "AIDA64",
           "description": "Подробная информация о системе и бенчмарки",
           "downloads": [
-            { "name": "Rutracker", "url": "https://rutracker.org/forum/viewtopic.php?t=6611624", "class": "" }
+            { "name": "Rutracker", "url": "https://rutracker.org/forum/viewtopic.php?t=6611624", "class": "green" }
           ],
           "photos": []
         }
