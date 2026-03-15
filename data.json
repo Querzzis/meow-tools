@@ -19,6 +19,14 @@
             { "name": "Google Drive", "url": "https://drive.google.com/file/d/1MhSYiGKGTGU2XBGEWkwpoXzUx3J75OTR/view?usp=sharing", "class": ""}
           ],
           "photos": []
+        },
+        {
+          "name": "Cinebench",
+          "description": "Бенчмарк процессора",
+          "downloads": [
+            { "name": "Оф.Сайт", "url": "https://cinebench.net/download/", "class": "green" }
+          ],
+          "photos": []
         }
       ]
     }
